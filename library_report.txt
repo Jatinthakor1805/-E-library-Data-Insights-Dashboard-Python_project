@@ -1,0 +1,25 @@
+E-LIBRARY DATA INSIGHTS REPORT
+==============================
+
+Total Transactions: 10
+Unique Users: 6
+Average Borrowing Duration: 12.00 days
+
+TOP 5 BOOKS
+Book_Title
+Python for Everyone      2
+The Silent River         2
+AI Made Simple           1
+The Missing Key          1
+Mathematics Made Easy    1
+
+GENRE SUMMARY
+            Total_Borrowings  Average_Duration
+Genre                                         
+Education                  1              6.00
+Fantasy                    1             21.00
+Fiction                    2             10.00
+History                    1             14.00
+Mystery                    1              9.00
+Science                    1             18.00
+Technology                 3             10.67
